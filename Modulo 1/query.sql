@@ -26,3 +26,4 @@ CREATE TABLE aluno (
 ); -- Criar Tabela
 
 SELECT * FROM aluno; -- Selecionar todas as colunas da tabela
+
